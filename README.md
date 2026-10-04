@@ -105,7 +105,7 @@ Treat changes to the spec as protocol changes:
 
 ## License
 
-*Add your license here (e.g. MIT / Apache-2.0 / CC-BY-4.0 for the prose).*
+MIT License
 
 ---
 
